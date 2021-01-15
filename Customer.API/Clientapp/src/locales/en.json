@@ -1,0 +1,80 @@
+{
+    "info": {
+        "code": "en",
+        "lang": "English"
+    },
+
+    "nav": {
+        "title": "Customers",
+        "back": "Back",
+        "logout": "Logout",
+
+        "error": {
+            "logout": "Error while trying to logout."
+        }
+    },
+
+    "signin": {
+        "email": "Email",
+        "email-info": "Type your email",
+        "password": "Password",
+        "password-info": "Type your password",
+        "enter": "Login",
+        "no-account": "I don't have an account",
+        "login-again": "You need to login again.",
+
+        "error": {
+            "email-empty": "Type the user email.",
+            "no-account": "There's no account with given email.",
+            "password-empty": "Type your password.",
+            "invalid-password": "Invalid password.",
+            "no-user": "No user exists with given e-mail.",
+            "empty-credentials": "E-mail or password empty.",
+            "generic": "It was not possible to enter."
+        }
+    },
+
+    "home": {
+        "search":{
+            "name": "Name",
+            "name-info": "Name of the customer",
+            "gender": "Gender",
+            "gender-info": "Gender of the customer",
+            "region": "Region",
+            "region-info": "Region of the customer",
+            "city": "City",
+            "city-info": "City of the customer",
+            "purchase": "Last purchase",
+            "purchase-info": "Date range of the last purchase",
+            "classification": "Classification",
+            "classification-info": "Classification of the customer",
+            "seller": "Seller",
+            "seller-info": "Seller of the customer",
+            
+            "no-result": "No result found with",
+            "search": "Search",
+            "clear": "Clear"
+        },
+
+        "list": {
+            "classification": "Classification",
+            "name": "Name",
+            "phone": "Phone",
+            "gender": "Gender",
+            "region": "Region",
+            "city": "City",
+            "purchase": "Last Purchase",
+            "seller": "Seller",
+            "none": "No customer found."
+        }
+    },
+
+    "not-found": {
+        "title": "Page not found...",
+        "back": "Return to the homepage"
+    },
+
+    "footer": {
+        "language": "Language"
+    }
+}

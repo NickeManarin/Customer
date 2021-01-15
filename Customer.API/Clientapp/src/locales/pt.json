@@ -1,0 +1,80 @@
+{
+    "info": {
+        "code": "pt",
+        "lang": "Português"
+      },
+
+    "nav": {
+        "title": "Clientes",
+        "back": "Voltar",
+        "logout": "Sair",
+
+        "error": {
+            "logout": "Erro ao tentar sair."
+        }
+    },
+
+    "signin": {
+        "email": "E-mail",
+        "email-info": "E-mail do usuário",
+        "password": "Senha",
+        "password-info": "Senha do usuário",
+        "enter": "Entrar",
+        "no-account": "Não tenho uma conta",
+        "login-again": "É necessário fazer o login",
+
+        "error": {
+            "email-empty": "Digite o e-mail do usuário.",
+            "no-account": "Não existe um usuário com este e-mail.",
+            "password-empty": "Digite a senha do usuário.",
+            "invalid-password": "Senha inválida.",
+            "no-user": "Nenhum usuário existe com esse e-mail.",
+            "empty-credentials": "E-mail e/ou senha não preenchidos.",
+            "generic": "Não foi possível entrar."
+        }
+    },
+
+    "home": {
+        "search":{
+            "name": "Nome",
+            "name-info": "Nome do cliente",
+            "gender": "Gênero",
+            "gender-info": "Gênero do cliente",
+            "region": "Região",
+            "region-info": "Região do cliente",
+            "city": "Cidade",
+            "city-info": "Cidade do cliente",
+            "purchase": "Última compra",
+            "purchase-info": "Período de data a última compra",
+            "classification": "Classificação",
+            "classification-info": "Classificação do cliente",
+            "seller": "Vendedor",
+            "seller-info": "Vendedor do cliente",
+            
+            "no-result": "Nenhum resultado encontrado com ",
+            "search": "Buscar",
+            "clear": "Limpar"
+        },
+
+        "list": {
+            "classification": "Classificação",
+            "name": "Nome",
+            "phone": "Telefone",
+            "gender": "Gênero",
+            "region": "Região",
+            "city": "Cidade",
+            "purchase": "Última compra",
+            "seller": "Vendedor",
+            "none": "Nenhum cliente encontrado."
+        }
+    },
+
+    "not-found": {
+        "title": "Página não encontrada...",
+        "back": "Volte para a página principal"
+    },
+
+    "footer": {
+        "language": "Idioma"
+    }
+}
